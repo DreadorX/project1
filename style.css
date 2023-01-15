@@ -1,0 +1,37 @@
+img{
+  
+  width: 200px;
+  height: 150px;
+  margin-left: 600px;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+h2{
+  margin-left: 600px;
+}
+p{
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: centre;
+}
+h1{
+  font-size: 3em;
+  text-align: center;
+  text-decoration: none;
+}
+body{
+  font-family: 'Poiret One', cursive;
+}
+a{
+  color: white;
+  padding: 7px 7px 7px 7px;
+  margin-left: 610px;
+  background-color: #361d0c;
+  text-decoration: none;
+  font-size: 1.25em;
+  ;
+}
+a:visited{
+  color: white;
+  text-decoration: none;
+}
